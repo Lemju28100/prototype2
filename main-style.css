@@ -1,0 +1,90 @@
+/* General */
+
+.zero-margin
+{
+  margin: 0;
+}
+
+.margin-left-sm
+{
+  margin-left: 15px;
+}
+
+.margin-top-sm
+{
+  margin-top: 15px;
+}
+
+.margin-bottom-sm
+{
+  margin-bottom: 15px;
+}
+
+.padding-left-sm
+{
+  padding-left: 2%;
+}
+
+.padding-right-sm
+{
+  padding-right: 2%;
+}
+
+.padding-right-md
+{
+  padding-right: 7%;
+}
+
+.padding-sm
+{
+  padding: 2%;
+}
+
+.padding-top
+{
+  padding-top: 10%;
+}
+
+.section-padding
+{
+  padding:5% 15%;
+}
+
+.align-text
+{
+  text-align: center;
+}
+
+.rounded-img
+{
+  border-radius: 25%;
+  width: 40%;
+}
+
+.feature-box
+{
+
+	padding: 4.5%;
+}
+
+.blue-section{
+  background-color: #add8e6;
+  ;
+}
+
+.collapse
+{
+margin-top: 2%;
+}
+
+.lg-btn-arrow:active .arrow-div
+{
+
+  transform: rotate(90deg);
+}
+
+li
+{
+  list-style: none;
+
+}

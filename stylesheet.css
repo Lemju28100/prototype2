@@ -1,0 +1,139 @@
+/* Super Headers */
+h3
+{
+
+
+}
+
+body
+{
+
+}
+
+
+
+/* General */
+
+.margin-top
+{
+  margin-top: 3%;
+}
+
+.icon
+{
+  color: #4A777A;
+}
+
+.icon:hover
+{
+  transform: translateX(10px);
+}
+
+
+
+
+/* <!-- Header section --> */
+
+#header
+{
+
+}
+
+.navbar
+{
+  background-color: blue;
+  padding: 2% 5%;
+}
+
+/* Options section */
+
+#options
+{
+padding: 2% 5%;
+width: 40%;
+float: left;
+}
+
+.lg-btn-arrow
+{
+  display: inline;
+  box-shadow: 3px 3px 2px grey;
+  padding: 5%;
+  margin: 3%;
+
+
+}
+
+.lg-btn-arrow:hover
+{
+  background-color: #ADD8E6;
+  transform: scale(10%);
+  color: white;
+}
+
+.lg-btn-arrow:hover .arrow-div
+{
+  transform: translateX(-3px);
+  transform: rotate(5deg):
+}
+
+
+
+/* Login Page */
+
+#login-page
+{
+  width: 60%;
+  padding: 5% 18%;
+  float: right;
+  text-align: center;
+}
+
+
+/* Footer */
+
+
+#footer
+{
+  width: 100%;
+  display: block;
+  padding:3.5% 7.5%;
+  clear: both;
+  text-align: center;
+  background-color: blue;
+
+
+}
+
+.footer-text
+{
+  color: white;
+}
+
+
+
+/* Media Queries */
+@media (max-width: 960px)
+{
+#login-page
+{
+  clear: both;
+  padding-right: 25%;
+  padding-left: 25%;
+  width: 100%;
+
+
+}
+
+#options
+{
+padding: 2% 5%;
+width: 100%;
+float: left;
+}
+
+.icon
+{
+  display: none;
+}
+}
